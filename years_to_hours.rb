@@ -1,4 +1,4 @@
-# Defining the method
+# Defining the method year_to_hours
 def years_to_hours
   puts "Enter number of years: "
   years = gets.chomp.to_i # return string and convert it to integer
